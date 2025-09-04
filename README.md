@@ -47,7 +47,9 @@ Python 3.8 ou superior
 Conta no Telegram
 
 1. Clone o Repositório
+
 git clone https://github.com/viniciusbon/viniciusbon-consultas_de_processos_judiciais_CPF_CNPJ_NOME_PROCESSOS_DataJud.git
+
 cd viniciusbon-consultas_de_processos_judiciais_CPF_CNPJ_NOME_PROCESSOS_DataJud.git
 
 2. Instale as Dependências
